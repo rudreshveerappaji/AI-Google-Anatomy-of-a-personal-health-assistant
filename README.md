@@ -3,8 +3,6 @@
 Google's paper:
 https://arxiv.org/pdf/2508.20148
 
-Here’s a concise summary of the key ideas and contributions of *“The Anatomy of a Personal Health Agent”* (arXiv:2508.20148) by Heydari et al. ([arXiv][1])
-
 ---
 
 ## Motivation & Problem Statement
